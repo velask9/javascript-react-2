@@ -10,5 +10,5 @@ export const Main = () => {
       {/* Component is called Ten Counter */}
    
     </div>
-  )
+  )-++
 }
